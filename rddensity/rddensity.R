@@ -4,7 +4,7 @@
 # Manipulation testing using local polynomial density estimation Use rddensity With (In) R Software
 install.packages("rddensity")
 library("rddensity")
-spml_one = read.csv("https://raw.githubusercontent.com/timbulwidodostp/rddensity/main/rddensity/rddensity.csv",sep = ";")
+rddensity = read.csv("https://raw.githubusercontent.com/timbulwidodostp/rddensity/main/rddensity/rddensity.csv",sep = ";")
 # Estimation Manipulation testing using local polynomial density estimation Use rddensity With (In) R Software
 x <- rddensity$rddensity
 rddensity <- rddensity(X = x, vce = "jackknife")
