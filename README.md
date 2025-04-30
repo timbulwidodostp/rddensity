@@ -1,6 +1,8 @@
 # rddensity
 Manipulation testing using local polynomial density estimation Use rddensity With (In) R Software
 
+https://www.youtube.com/watch?v=zda3q2C8ilk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
